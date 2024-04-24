@@ -1,0 +1,13 @@
+{
+    "port": 6666,
+    "rendezvous_string":"rendezvous",
+    "bootstrap_peers":[
+        "/ip4/127.0.0.1/tcp/4001/p2p/12D3KooWDJMbnbWfKFLfPZffkJMiovaRMCCy3aGTExsE1GBLek2P",
+	    "/ip4/127.0.0.1/tcp/4002/p2p/12D3KooWE84hQ6iqGTAWsw8mtyBPde6dMFps674FiL2QPB4MWUNF",
+	    "/ip4/127.0.0.1/tcp/4003/p2p/12D3KooWA7D2ev5nR2gnmFBYNauW4F9tFMoKVvBr5qS7T7e97FkR",
+	    "/ip4/127.0.0.1/tcp/4004/p2p/12D3KooWKZdYVvgXyNT7Vp8n8TcaTQ9fBHmkVwXR3NdjhfNQL9CF",
+	    "/ip4/127.0.0.1/tcp/4005/p2p/12D3KooWEtjYR2tyV3B7xXAiRhFUa3hMteKpMNvRXLLNuQZDSkuj"
+    ],
+    "listen_ips":["127.0.0.1"],
+    "protocol_id": "/chat/1.1.0"
+}
